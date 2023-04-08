@@ -14,8 +14,8 @@ We compared the results of the sentiment analysis performed by VADER and Roberta
 
 ## Tools
 - Anaconda
-2.Jupyter Notebook
-3.Python Libraries(pandas,Numpy,seaborn matplotlib,re..etc)
+- Jupyter Notebook
+- Python Libraries(pandas,Numpy,seaborn matplotlib,re..etc)
 
 ## Conclusion
 This project demonstrates how to perform sentiment analysis on Amazon customer reviews using two different packages and how to compare the results. The differences in the results highlight the importance of understanding the limitations and assumptions of the sentiment analysis tools being used. Overall, this project provides a starting point for anyone interested in sentiment analysis and its applications.
