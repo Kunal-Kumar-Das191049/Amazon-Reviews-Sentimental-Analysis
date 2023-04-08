@@ -1,4 +1,4 @@
-# Amazon-reviews-Sentimental-Analysis
+# Amazon-Reviews-Sentimental-Analysis
 This project aims to classify the sentiment of Amazon customer reviews using Natural Language Toolkit's VADER sentiment analysis tool and the huggingface Roberta Transformers package. We also compare the results of the sentiment analysis performed by both packages.
 
 ## Dataset
