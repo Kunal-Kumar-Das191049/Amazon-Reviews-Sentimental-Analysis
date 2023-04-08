@@ -13,7 +13,7 @@ We performed sentiment analysis on the preprocessed dataset using both VADER and
 We compared the results of the sentiment analysis performed by VADER and Roberta Transformers and found that the two packages produced different sentiment scores for the same text. We further analyzed the differences in the results and identified some of the factors that may have contributed to the variations.
 
 ## Tools
-1.Anaconda
+- Anaconda
 2.Jupyter Notebook
 3.Python Libraries(pandas,Numpy,seaborn matplotlib,re..etc)
 
